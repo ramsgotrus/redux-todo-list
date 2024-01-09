@@ -1,0 +1,9 @@
+.Input-entry {
+  height: 50;
+  border: 1px solid #777;
+  border-radius: 3px;
+}
+
+.Input-entry.error {
+  border-color: red;
+}
